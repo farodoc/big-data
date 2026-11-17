@@ -1,0 +1,209 @@
+{
+  "descriptive_statistics": {
+    "events": 10693473,
+    "unique_actors": 965117,
+    "unique_repositories": 1775286
+  },
+  "most_common_event_types": [
+    {
+      "event_type": "PushEvent",
+      "events": 5624418
+    },
+    {
+      "event_type": "CreateEvent",
+      "events": 1695875
+    },
+    {
+      "event_type": "PullRequestEvent",
+      "events": 1244555
+    },
+    {
+      "event_type": "IssueCommentEvent",
+      "events": 516157
+    },
+    {
+      "event_type": "WatchEvent",
+      "events": 438345
+    },
+    {
+      "event_type": "DeleteEvent",
+      "events": 381575
+    },
+    {
+      "event_type": "PullRequestReviewEvent",
+      "events": 180301
+    },
+    {
+      "event_type": "IssuesEvent",
+      "events": 180074
+    },
+    {
+      "event_type": "ForkEvent",
+      "events": 124817
+    },
+    {
+      "event_type": "PullRequestReviewCommentEvent",
+      "events": 103547
+    },
+    {
+      "event_type": "CommitCommentEvent",
+      "events": 82469
+    },
+    {
+      "event_type": "ReleaseEvent",
+      "events": 54883
+    },
+    {
+      "event_type": "PublicEvent",
+      "events": 29130
+    },
+    {
+      "event_type": "MemberEvent",
+      "events": 19787
+    },
+    {
+      "event_type": "GollumEvent",
+      "events": 17540
+    }
+  ],
+  "events_by_hour_utc": [
+    {
+      "hour": 0,
+      "events": 351154
+    },
+    {
+      "hour": 1,
+      "events": 377073
+    },
+    {
+      "hour": 2,
+      "events": 317890
+    },
+    {
+      "hour": 3,
+      "events": 336019
+    },
+    {
+      "hour": 4,
+      "events": 328373
+    },
+    {
+      "hour": 5,
+      "events": 338447
+    },
+    {
+      "hour": 6,
+      "events": 364837
+    },
+    {
+      "hour": 7,
+      "events": 401331
+    },
+    {
+      "hour": 8,
+      "events": 440900
+    },
+    {
+      "hour": 9,
+      "events": 470104
+    },
+    {
+      "hour": 10,
+      "events": 478340
+    },
+    {
+      "hour": 11,
+      "events": 483793
+    },
+    {
+      "hour": 12,
+      "events": 586613
+    },
+    {
+      "hour": 13,
+      "events": 561676
+    },
+    {
+      "hour": 14,
+      "events": 534811
+    },
+    {
+      "hour": 15,
+      "events": 549968
+    },
+    {
+      "hour": 16,
+      "events": 517135
+    },
+    {
+      "hour": 17,
+      "events": 517487
+    },
+    {
+      "hour": 18,
+      "events": 502429
+    },
+    {
+      "hour": 19,
+      "events": 472863
+    },
+    {
+      "hour": 20,
+      "events": 471255
+    },
+    {
+      "hour": 21,
+      "events": 456739
+    },
+    {
+      "hour": 22,
+      "events": 425906
+    },
+    {
+      "hour": 23,
+      "events": 408330
+    }
+  ],
+  "most_active_repositories": [
+    {
+      "repository": "Lombiq/Orchard",
+      "events": 94666
+    },
+    {
+      "repository": "MinekiYoshino/Green-Commit",
+      "events": 82199
+    },
+    {
+      "repository": "MaihaMemoto/Commit-Green",
+      "events": 63838
+    },
+    {
+      "repository": "unifyai/ivy",
+      "events": 61900
+    },
+    {
+      "repository": "B4kedBr3ad/yo",
+      "events": 48338
+    },
+    {
+      "repository": "wyo881mh/Green",
+      "events": 41791
+    },
+    {
+      "repository": "Rolleander/yoyo_mirror",
+      "events": 40078
+    },
+    {
+      "repository": "1bpnlzq3/Green-Commit",
+      "events": 27243
+    },
+    {
+      "repository": "happyfish2024/mins",
+      "events": 26995
+    },
+    {
+      "repository": "Lombiq/TheClassLessTheme",
+      "events": 16479
+    }
+  ]
+}

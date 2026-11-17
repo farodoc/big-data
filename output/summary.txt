@@ -1,0 +1,10 @@
+PODSUMOWANIE ANALIZY GITHUB ARCHIVE
+
+1. Statystyki zbioru
+Liczba zdarzeń: 10693473
+Liczba unikalnych autorów: 965117
+Liczba unikalnych repozytoriów: 1775286
+
+2. Ranking typów zdarzeń: output/figures/event_types.png
+3. Aktywność według godziny UTC: output/figures/events_by_hour.png
+4. Ranking repozytoriów: output/figures/most_active_repositories.png
